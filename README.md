@@ -1,4 +1,4 @@
-# UniversalShaderPack
+# Lite Shader Pack
 
 <!--![Logo](pack_icon.png)-->
 <!--![title](textures/ui/title.png)-->
